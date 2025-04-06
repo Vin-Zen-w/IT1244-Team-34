@@ -1,4 +1,3 @@
-# IT1244-Team-34
 
 # Cancer Classification
 Project for NUS IT1244 by Team 34 - Woon Vin Zen, Er Jun Ze, Nguyen Anh Quan, Ngo Xian Nuo Joel
